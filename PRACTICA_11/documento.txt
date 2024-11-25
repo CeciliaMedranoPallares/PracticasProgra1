@@ -1,0 +1,4 @@
+Contador de líneas, palabras y caracteres
+Descripción: Escribe un programa que lea un archivo de texto llamado
+documento.txt y cuente el número total de líneas, palabras y caracteres. Al
+final, el programa debe mostrar estos totales en la consola.

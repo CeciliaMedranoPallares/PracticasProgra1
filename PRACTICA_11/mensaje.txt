@@ -1,0 +1,6 @@
+ Cifrado de un archivo de texto (Cifrado César)
+Descripción: Escribe un programa que lea un archivo mensaje.txt, realice
+un cifrado César con un desplazamiento de 3 sobre el texto y guarde el
+resultado en un archivo mensaje_cifrado.txt. El cifrado César desplaza cada
+letra por un número fijo de posiciones en el alfabeto (por ejemplo, A se
+convierte en D, B en E, etc.).

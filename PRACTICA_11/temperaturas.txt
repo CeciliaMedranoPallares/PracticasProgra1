@@ -1,0 +1,5 @@
+Bolivia 25
+Barcelona 34.8
+Valencia 34.5
+Madrid 23.9
+
